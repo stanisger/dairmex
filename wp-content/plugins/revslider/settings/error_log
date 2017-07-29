@@ -1,0 +1,19 @@
+[09-Jul-2017 07:31:34 America/New_York] PHP Fatal error:  Class 'RevOperations' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/layer_settings.php on line 3
+[09-Jul-2017 07:35:21 America/New_York] PHP Notice:  Undefined variable: operations in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slide_settings.php on line 4
+[09-Jul-2017 07:35:21 America/New_York] PHP Fatal error:  Call to a member function getArrTransition() on a non-object in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slide_settings.php on line 4
+[09-Jul-2017 08:05:37 America/New_York] PHP Fatal error:  Class 'UniteSettingsAdvancedRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings.php on line 4
+[09-Jul-2017 08:35:54 America/New_York] PHP Fatal error:  Class 'UniteSettingsRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/general_settings.php on line 3
+[09-Jul-2017 09:55:21 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings_xml_lang.php on line 2
+[09-Jul-2017 16:32:36 America/New_York] PHP Fatal error:  Class 'RevOperations' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/layer_settings.php on line 3
+[09-Jul-2017 16:36:23 America/New_York] PHP Notice:  Undefined variable: operations in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slide_settings.php on line 4
+[09-Jul-2017 16:36:23 America/New_York] PHP Fatal error:  Call to a member function getArrTransition() on a non-object in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slide_settings.php on line 4
+[09-Jul-2017 16:47:44 America/New_York] PHP Fatal error:  Class 'UniteSettingsAdvancedRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings.php on line 4
+[09-Jul-2017 17:10:28 America/New_York] PHP Fatal error:  Class 'UniteSettingsRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/general_settings.php on line 3
+[09-Jul-2017 17:52:03 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings_xml_lang.php on line 2
+[09-Jul-2017 19:00:11 America/New_York] PHP Fatal error:  Class 'UniteSettingsAdvancedRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings.php on line 4
+[10-Jul-2017 21:21:35 America/New_York] PHP Fatal error:  Class 'RevOperations' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/layer_settings.php on line 3
+[10-Jul-2017 21:25:21 America/New_York] PHP Notice:  Undefined variable: operations in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slide_settings.php on line 4
+[10-Jul-2017 21:25:21 America/New_York] PHP Fatal error:  Call to a member function getArrTransition() on a non-object in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slide_settings.php on line 4
+[10-Jul-2017 21:32:55 America/New_York] PHP Fatal error:  Class 'UniteSettingsAdvancedRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings.php on line 4
+[10-Jul-2017 21:40:29 America/New_York] PHP Fatal error:  Class 'UniteSettingsRev' not found in /home/dairmex/public_html/wp-content/plugins/revslider/settings/general_settings.php on line 3
+[10-Jul-2017 22:22:06 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/dairmex/public_html/wp-content/plugins/revslider/settings/slider_settings_xml_lang.php on line 2

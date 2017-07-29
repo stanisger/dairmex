@@ -1,0 +1,260 @@
+
+/*header*/
+header{
+	width: 100%;
+}
+    header .social-hinner{
+        display: none;
+    	width: 100%;
+    	margin: 0 auto;
+    }
+        header .social-hinner ul {
+    		float: right;
+        	padding: 1em 0 0;
+        	width: 200px;
+
+        }
+	    	header .social-hinner ul li{
+	    		display: inline-block;
+	    	}
+		    	header .social-hinner a{
+		    		color: #00c4f0;
+		    		font-size: 1em;
+		    	}
+		    		header .social-hinner a:hover{
+		    		color: white;
+		    	}
+		    	header .social-hinner a i{
+		    		font-size: 1.5em;
+		    		margin-left: 1em;
+		    	}
+		    	header .nav-button-holder{
+		    		right: 1em;
+		    	}
+		    	header .nav-holder{
+		    		top: 88px;
+		    		height: 100vh;
+		    	}
+
+	header .header-inner{
+		margin: 0 auto;
+		float: none;
+		display: inline-block;
+	}
+		header .header-inner .nav-holder{
+			left: 0;
+		}
+		.logo-holder {
+			width: 260px;
+			margin-top: 0;
+		}
+
+			@media (min-width: 1024px){
+				header{
+					height: 103px;
+				}
+				 header .social-hinner{
+				 	display: inherit;
+				 }
+
+				 .logo-holder {
+						width: 260px;
+						margin-top: -18px;
+					}
+				  header .nav-holder{
+			    		top: 20px;
+
+			    	}
+
+			}
+				@media (min-width: 1440px){
+					 header .social-hinner{
+					 	width: 80%;
+					 }
+				}	
+/*header*/
+
+
+
+/*wrapper*/
+
+#wrapper .content-holder{
+   padding: 0;
+}
+   /* HERO*/
+  .hero-wrap   {}
+     .hero-wrap-text-slider-holder{}
+     	.hero-wrap-text-slider{}
+     	  .item{}
+
+     	  /*heroText*/
+     	  .hero-wrap-item{
+     	  	width: 100%;
+     	  	float: none;
+     	  	top: 40%;
+     	  }
+     	  .hero-wrap-item h2{
+     	  	font-size: 2.2em;
+     	  	font-weight: 100;
+     	  	font-family: 'Montserrat', sans-serif;
+     	  }
+     	   .hero-wrap-item h2 strong{
+     	   	font-weight: 700;
+     	   }
+	 	   .hero-wrap-item h4{
+	 	       color: #fff;
+			    font-size: 1em;
+			    text-transform: uppercase;
+			    font-weight: 200;
+			    letter-spacing: 4px;
+			    padding-left: 12px;
+			}
+     	  
+     	  .hero-wrap-item  .groupBtn{
+     	   	width:260px;
+     	   	margin: 6em auto;
+     	   	height: 60px;
+     	   }
+
+     	       .hero-wrap-item  .groupBtn a{
+     	       	width: 240px;
+     	       	height: 45px;
+     	      	margin: 0 1.5em;
+     	      	border: 1px solid white;
+     	      	color: white;
+          	      }
+
+
+     	  .hero-wrap-item img{
+     	  	width: 80% !important;
+     	  	margin: 25% auto 0;
+     	  }
+
+
+     	    @media (min-width: 768px){
+     	    	  /*heroText*/
+			     	  .hero-wrap-item{
+			     	  	top: 35%;
+			     	  }
+
+		     	    .hero-wrap-item h2{
+	     	  			font-size: 3.2em;
+	     	  		}
+     	  }
+
+
+     	  @media (min-width: 1024px){
+     	  	.hero-wrap-item{
+	     	  	width: 80% ;
+	     	  	margin: 15% auto 0;
+	     	  	top: 10%;
+	     	  }
+	     	    .hero-wrap-item h2{
+     	  			font-size: 4.2em;
+     	  		}
+     	  		 .hero-wrap-item h4{
+	     	  			font-size: 1.8em;
+	     	  		}
+     	  }
+
+     	   @media (min-width: 1440px){
+	     	    .hero-wrap-item h2{
+     	  			font-size: 6.8em;
+     	  		}
+     	  }
+
+
+
+
+
+     	 .owl-dot.active span{
+     	 	background: #00c4f0 !important;
+     	 	color: #00c4f0;
+
+     	 }
+
+    /*HERO*/ 	  
+
+
+ /*   MAINOR*/
+.team-holder li{
+ 	width: 50%;
+ }
+ /*   MAINOR*/
+
+/*wrapper*/
+
+
+
+
+
+/*helpers*/
+.btn:before {
+	background: #00c4f0;
+
+}
+.serv-item-inner{
+	background: black;
+}
+.serv-item-inner img{
+	opacity: .85;
+}
+
+.ser-title h3:before{
+	background: #00c4f0;
+}
+.section-title.dec-title span:before{
+	background: #00c4f0;
+	bottom: -25px;
+}
+
+.btnWhite{
+	border: 1px solid white !important;
+	color: white !important;
+	font-size: .8em !important;
+}
+
+.bold{
+	font-weight: bold;
+}
+.thing{
+	font-weight: 100;
+}
+.contenteLarge{
+	width: 100%;
+	padding-left: 1em; 
+	padding-right: 1em; 
+	height: 72px;
+}
+	@media (min-width: 1440px){
+			.contenteLarge{
+					width: 80%;
+				}
+		}
+
+.whiteColor{
+	color:white;
+}
+
+.whiteBg{
+	background: white;
+}
+
+.blueColor{
+	color: #00c4f0;
+}
+
+.blueBg{
+	background: #00c4f0
+}
+
+.grayColor{
+	color: #e6e6e6;
+}
+
+.grayBg{
+	background: #e6e6e6;
+}
+
+
+

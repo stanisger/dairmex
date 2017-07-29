@@ -1,0 +1,3 @@
+[09-Jul-2017 08:54:48 America/New_York] PHP Fatal error:  Call to undefined function site_url() in /home/dairmex/public_html/wp-content/plugins/revslider/temp/functions_wordpress.class.php on line 38
+[09-Jul-2017 17:25:34 America/New_York] PHP Fatal error:  Call to undefined function site_url() in /home/dairmex/public_html/wp-content/plugins/revslider/temp/functions_wordpress.class.php on line 38
+[10-Jul-2017 21:55:37 America/New_York] PHP Fatal error:  Call to undefined function site_url() in /home/dairmex/public_html/wp-content/plugins/revslider/temp/functions_wordpress.class.php on line 38
